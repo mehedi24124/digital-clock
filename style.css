@@ -31,7 +31,7 @@ h2{
 }
 
 .clock span{
-    width: 96px;
+    width: 94px;
     height: 80px;
     background: rgba(52, 42, 42, 0.845);
     opacity: .8;
@@ -55,6 +55,7 @@ h2{
 }
 
 .clock #ampm{
+    margin-top: 80px;
     width: 60px;
     height: 30px;
     font-size: 20px;
